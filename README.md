@@ -13,3 +13,5 @@ I have used the os module to clear the output screen
 The program is very simple go through it and you will understand it.
 
 Added docstring and comments wherever it is necessary.
+
+This is my version of this game maybe there will be more efficient code than this.
